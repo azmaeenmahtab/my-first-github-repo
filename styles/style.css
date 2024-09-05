@@ -82,9 +82,9 @@ body{
 
 .banner{
     min-height: 200px;
-    background-image: url('../new-year-new-me/images/watch.png') ,url('../new-year-new-me/images/gradient1.png');
+    background-image: url('../new-year-new-me/images/watch.png'), url('../new-year-new-me/images/gradient1.png');
     background-repeat: no-repeat;
-    background-size: 580px 150px ,580px 150px;
+    background-size: 580px 150px ;
     margin-top: 40px;
     /* background-position: center;  */
     margin-left: 80px;
