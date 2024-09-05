@@ -60,3 +60,20 @@ body{
 }
 
 /* plans section style */
+
+.plans-container{
+    display: flex;
+    justify-content: center;   
+}
+.plans{
+    text-align: center;
+}
+.plan-name{
+    font-size: 14px;
+}
+.plan-description{
+    font-size: 11px;
+}
+.plans-item{
+    margin-right: 40px;
+}
