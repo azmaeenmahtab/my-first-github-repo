@@ -12,7 +12,8 @@ body{
 .section-description{
     font-size: 8px;
     margin-top: 0px;
-    margin-bottom: 13px;
+    margin-bottom: 13px;   
+    margin-left: 50px;
 }
 .think-box{
     padding: 50px 70px 50px 390px;
@@ -35,3 +36,27 @@ body{
     border-radius: 5px;
     margin-top: 0px;
 }
+/* failures section style */
+
+.failures{
+    display: flex;
+}
+.failures-title{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.failures-description{
+    font-size: 8px;
+    margin-top: 10px;
+}
+.failures-list{
+    font-size: 8px;
+}
+.failures-content{
+    padding: 120px 150px 60px 0px;
+}
+.failures-picture{
+    margin: 40px 40px 30px 100px ;
+}
+
+/* plans section style */
