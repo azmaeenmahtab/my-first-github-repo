@@ -19,8 +19,8 @@ body{
     padding: 50px 70px 50px 390px;
     text-align: right;
     background-image: url('../new-year-new-me/images/banner/banner3.png');
-    background-repeat: none;
-    background-size: 750px 315px;
+    background-repeat: no-repeat;
+    background-size: 100% 315px;
     max-height:808px ;
     
     
@@ -76,4 +76,21 @@ body{
 }
 .plans-item{
     margin-right: 40px;
+}
+
+/* banner section style */
+
+.banner{
+    min-height: 200px;
+    background-image: url('../new-year-new-me/images/watch.png') ,url('../new-year-new-me/images/gradient1.png');
+    background-repeat: no-repeat;
+    background-size: 580px 150px ,580px 150px;
+    margin-top: 40px;
+    /* background-position: center;  */
+    margin-left: 80px;
+    padding: 10px 0px 20px 30px;
+    
+}
+.banner-title{
+    color: white;
 }
